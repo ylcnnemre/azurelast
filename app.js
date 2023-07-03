@@ -25,3 +25,5 @@ app.get("/test",(req,res)=>{
 app.listen(3900,()=>{
     console.log("server is running")
 })
+
+module.exports=app
