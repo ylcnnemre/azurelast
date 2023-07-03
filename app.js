@@ -22,6 +22,6 @@ app.get("/test",(req,res)=>{
     })
 })
 
-app.listen(3500,()=>{
+app.listen(3900,()=>{
     console.log("server is running")
 })
